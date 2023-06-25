@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/bin/Debug/net7.0/filter_matrix
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/bin/Debug/net7.0/filter_matrix.deps.json
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/bin/Debug/net7.0/filter_matrix.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/bin/Debug/net7.0/filter_matrix.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/bin/Debug/net7.0/filter_matrix.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/refint/filter_matrix.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/filter_matrix.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/filter_matrix/obj/Debug/net7.0/ref/filter_matrix.dll
