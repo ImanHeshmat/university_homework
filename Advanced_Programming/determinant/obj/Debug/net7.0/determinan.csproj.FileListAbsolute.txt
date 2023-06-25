@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/bin/Debug/net7.0/determinan
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/bin/Debug/net7.0/determinan.deps.json
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/bin/Debug/net7.0/determinan.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/bin/Debug/net7.0/determinan.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/bin/Debug/net7.0/determinan.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/refint/determinan.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/determinan.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/determinan/obj/Debug/net7.0/ref/determinan.dll
