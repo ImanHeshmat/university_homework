@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/bin/Debug/net7.0/mathtest
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/bin/Debug/net7.0/mathtest.deps.json
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/bin/Debug/net7.0/mathtest.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/bin/Debug/net7.0/mathtest.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/bin/Debug/net7.0/mathtest.pdb
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/refint/mathtest.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.pdb
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/mathtest.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/mathtest/obj/Debug/net7.0/ref/mathtest.dll
