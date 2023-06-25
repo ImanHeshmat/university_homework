@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/bin/Debug/net7.0/duplicate
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/bin/Debug/net7.0/duplicate.deps.json
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/bin/Debug/net7.0/duplicate.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/bin/Debug/net7.0/duplicate.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/bin/Debug/net7.0/duplicate.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/refint/duplicate.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/duplicate.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/duplicate/obj/Debug/net7.0/ref/duplicate.dll
