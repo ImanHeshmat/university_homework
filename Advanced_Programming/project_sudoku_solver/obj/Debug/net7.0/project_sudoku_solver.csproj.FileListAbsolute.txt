@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/bin/Debug/net7.0/project_sudoku_solver
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/bin/Debug/net7.0/project_sudoku_solver.deps.json
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/bin/Debug/net7.0/project_sudoku_solver.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/bin/Debug/net7.0/project_sudoku_solver.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/bin/Debug/net7.0/project_sudoku_solver.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/refint/project_sudoku_solver.dll
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.pdb
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/project_sudoku_solver.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/homework/project_sudoku_solver/obj/Debug/net7.0/ref/project_sudoku_solver.dll
