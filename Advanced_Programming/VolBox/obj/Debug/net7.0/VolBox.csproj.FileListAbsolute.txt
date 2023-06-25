@@ -1,0 +1,15 @@
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/bin/Debug/net7.0/VolBox
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/bin/Debug/net7.0/VolBox.deps.json
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/bin/Debug/net7.0/VolBox.runtimeconfig.json
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/bin/Debug/net7.0/VolBox.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/bin/Debug/net7.0/VolBox.pdb
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.csproj.AssemblyReference.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.AssemblyInfoInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.AssemblyInfo.cs
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.csproj.CoreCompileInputs.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/refint/VolBox.dll
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.pdb
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/VolBox.genruntimeconfig.cache
+/Users/heshmat/Desktop/University/pishrafte/Advanced_Programming/VolBox/obj/Debug/net7.0/ref/VolBox.dll
